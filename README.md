@@ -1,1 +1,4 @@
 # Airport_Traffic_Analysis_during_COVID-19
+The COVID-19 pandemic brought unprecedented challenges to the airline industry, causing a devastating impact on a global scale. As countries implemented strict lockdown measures to control the spread of the virus, air travel came to an abrupt halt. The airline industry faced an unparalleled crisis, as passenger demand plummeted, and airlines were left grappling with severe financial losses.
+
+The most immediate and noticeable effect was the sharp decline in air travel. Governments worldwide imposed travel restrictions and closed borders, leading to a significant drop in both domestic and international flights. Many airlines were forced to ground a substantial portion of their fleets, while some even suspended operations entirely. This resulted in enormous revenue losses for airlines, leading to job cuts, furloughs, and financial instability across the industry.
